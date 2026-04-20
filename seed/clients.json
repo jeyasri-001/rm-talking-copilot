@@ -1,0 +1,392 @@
+[
+  {
+    "id": "W001",
+    "name": "Arjun Mehta",
+    "profile": {
+      "age": 38,
+      "occupation": "Tech Entrepreneur",
+      "risk_profile": "Moderate",
+      "aum_inr_cr": 4.8,
+      "allocation": { "equity": 0.65, "debt": 0.20, "alternatives": 0.10, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Tech Sector Fund", "type": "equity_mf", "weight": 0.22 },
+        { "name": "Multi-cap Equity Fund", "type": "equity_mf", "weight": 0.18 },
+        { "name": "Corporate Bond Fund", "type": "debt_mf", "weight": 0.12 },
+        { "name": "Gold ETF", "type": "commodity_etf", "weight": 0.08 }
+      ],
+      "ytd_return_pct": 6.2,
+      "benchmark_ytd_pct": 5.1,
+      "kyc_status": "Completed",
+      "flags": ["SIP paused 52 days", "High-value long-term investor", "Goal corpus at risk"],
+      "segment": "Risk",
+      "sip_active": false,
+      "last_activity": "2026-02-28",
+      "urgency_score": 95,
+      "action": "Reactivate SIP"
+    }
+  },
+  {
+    "id": "W002",
+    "name": "Priya Sharma",
+    "profile": {
+      "age": 42,
+      "occupation": "Finance Manager",
+      "risk_profile": "Aggressive",
+      "aum_inr_cr": 7.2,
+      "allocation": { "equity": 0.72, "debt": 0.15, "alternatives": 0.08, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Growth Equity Fund", "type": "equity_mf", "weight": 0.28 },
+        { "name": "Small Cap Fund", "type": "equity_mf", "weight": 0.18 },
+        { "name": "Fixed Maturity Plan", "type": "debt_mf", "weight": 0.12 },
+        { "name": "International Fund", "type": "intl_mf", "weight": 0.10 }
+      ],
+      "ytd_return_pct": 14.5,
+      "benchmark_ytd_pct": 9.2,
+      "kyc_status": "Completed",
+      "flags": ["Idle savings ₹2L detected", "Portfolio doing well", "Consistent SIP activity"],
+      "segment": "Opportunity",
+      "sip_active": true,
+      "last_activity": "2026-04-18",
+      "urgency_score": 92,
+      "action": "Upsell SIP"
+    }
+  },
+  {
+    "id": "W003",
+    "name": "Ramesh Iyer",
+    "profile": {
+      "age": 56,
+      "occupation": "Business Owner",
+      "risk_profile": "Moderate",
+      "aum_inr_cr": 12.0,
+      "allocation": { "equity": 0.55, "debt": 0.30, "alternatives": 0.10, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Sector-focused Fund", "type": "equity_mf", "weight": 0.18 },
+        { "name": "Midcap Fund", "type": "equity_mf", "weight": 0.16 },
+        { "name": "Hybrid Fund", "type": "hybrid_mf", "weight": 0.14 },
+        { "name": "Short Duration Bond", "type": "debt_mf", "weight": 0.12 }
+      ],
+      "ytd_return_pct": 5.1,
+      "benchmark_ytd_pct": 11.0,
+      "kyc_status": "Completed",
+      "flags": ["High AUM with underperformance", "Sector over-concentration risk", "Needs rebalancing"],
+      "segment": "Underperforming",
+      "sip_active": true,
+      "last_activity": "2026-04-10",
+      "urgency_score": 75,
+      "action": "Rebalance Portfolio"
+    }
+  },
+  {
+    "id": "W004",
+    "name": "Kavita Nair",
+    "profile": {
+      "age": 35,
+      "occupation": "HR Professional",
+      "risk_profile": "Conservative",
+      "aum_inr_cr": 3.2,
+      "allocation": { "equity": 0.40, "debt": 0.45, "alternatives": 0.05, "cash": 0.10 },
+      "top_holdings": [
+        { "name": "Conservative Allocation Fund", "type": "hybrid_mf", "weight": 0.22 },
+        { "name": "Gilt Fund", "type": "debt_mf", "weight": 0.18 },
+        { "name": "Balanced Advantage Fund", "type": "hybrid_mf", "weight": 0.15 },
+        { "name": "Liquid Fund", "type": "liquid_mf", "weight": 0.10 }
+      ],
+      "ytd_return_pct": 4.8,
+      "benchmark_ytd_pct": 4.5,
+      "kyc_status": "Completed",
+      "flags": ["No transactions in 46 days", "AUM declining trend", "Risk of lapsed SIP"],
+      "segment": "Risk",
+      "sip_active": false,
+      "last_activity": "2026-03-05",
+      "urgency_score": 89,
+      "action": "Re-engagement Call"
+    }
+  },
+  {
+    "id": "W005",
+    "name": "Suresh Pillai",
+    "profile": {
+      "age": 48,
+      "occupation": "IT Manager",
+      "risk_profile": "Moderate",
+      "aum_inr_cr": 5.6,
+      "allocation": { "equity": 0.60, "debt": 0.25, "alternatives": 0.08, "cash": 0.07 },
+      "top_holdings": [
+        { "name": "Core Equity Fund", "type": "equity_mf", "weight": 0.24 },
+        { "name": "Multi-cap Fund", "type": "equity_mf", "weight": 0.18 },
+        { "name": "Corporate Bond Fund", "type": "debt_mf", "weight": 0.14 },
+        { "name": "Liquid Fund", "type": "liquid_mf", "weight": 0.10 }
+      ],
+      "ytd_return_pct": 12.3,
+      "benchmark_ytd_pct": 8.5,
+      "kyc_status": "Completed",
+      "flags": ["₹1.5L idle in savings", "Consistent investor", "Recent bonus received"],
+      "segment": "Opportunity",
+      "sip_active": true,
+      "last_activity": "2026-04-19",
+      "urgency_score": 72,
+      "action": "Lump Sum Deployment"
+    }
+  },
+  {
+    "id": "W006",
+    "name": "Deepa Krishnan",
+    "profile": {
+      "age": 45,
+      "occupation": "Marketing Director",
+      "risk_profile": "Aggressive",
+      "aum_inr_cr": 8.5,
+      "allocation": { "equity": 0.65, "debt": 0.20, "alternatives": 0.10, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Growth Fund", "type": "equity_mf", "weight": 0.22 },
+        { "name": "Small Cap Fund", "type": "equity_mf", "weight": 0.16 },
+        { "name": "Balanced Fund", "type": "hybrid_mf", "weight": 0.18 },
+        { "name": "International Fund", "type": "intl_mf", "weight": 0.12 }
+      ],
+      "ytd_return_pct": 6.8,
+      "benchmark_ytd_pct": 9.2,
+      "kyc_status": "Completed",
+      "flags": ["Poor allocation - 70% debt in bull run", "Risk appetite mismatch", "Underutilized equity exposure"],
+      "segment": "Underperforming",
+      "sip_active": true,
+      "last_activity": "2026-04-08",
+      "urgency_score": 81,
+      "action": "Portfolio Optimization"
+    }
+  },
+  {
+    "id": "W007",
+    "name": "Vijay Anand",
+    "profile": {
+      "age": 52,
+      "occupation": "Consultant",
+      "risk_profile": "Conservative",
+      "aum_inr_cr": 2.0,
+      "allocation": { "equity": 0.30, "debt": 0.50, "alternatives": 0.10, "cash": 0.10 },
+      "top_holdings": [
+        { "name": "Debt Fund", "type": "debt_mf", "weight": 0.28 },
+        { "name": "Conservative Hybrid", "type": "hybrid_mf", "weight": 0.20 },
+        { "name": "Balanced Fund", "type": "hybrid_mf", "weight": 0.15 },
+        { "name": "Tax Saving Fund", "type": "equity_mf", "weight": 0.12 }
+      ],
+      "ytd_return_pct": 3.2,
+      "benchmark_ytd_pct": 4.1,
+      "kyc_status": "Completed",
+      "flags": ["Full redemption for house purchase", "Financial need - unavoidable", "Maintenance call only"],
+      "segment": "Risk",
+      "sip_active": false,
+      "last_activity": "2026-01-20",
+      "urgency_score": 32,
+      "action": "Financial Need Review"
+    }
+  },
+  {
+    "id": "W008",
+    "name": "Ananya Bose",
+    "profile": {
+      "age": 40,
+      "occupation": "Lawyer",
+      "risk_profile": "Moderate",
+      "aum_inr_cr": 4.3,
+      "allocation": { "equity": 0.58, "debt": 0.25, "alternatives": 0.10, "cash": 0.07 },
+      "top_holdings": [
+        { "name": "Education Goal Fund", "type": "equity_mf", "weight": 0.20 },
+        { "name": "Growth Fund", "type": "equity_mf", "weight": 0.18 },
+        { "name": "Fixed Maturity Plan", "type": "debt_mf", "weight": 0.14 },
+        { "name": "Balanced Fund", "type": "hybrid_mf", "weight": 0.12 }
+      ],
+      "ytd_return_pct": 13.1,
+      "benchmark_ytd_pct": 8.5,
+      "kyc_status": "Completed",
+      "flags": ["Child education goal in 8 years", "Current SIP insufficient for goal", "Goal corpus tracking needed"],
+      "segment": "Opportunity",
+      "sip_active": true,
+      "last_activity": "2026-04-17",
+      "urgency_score": 68,
+      "action": "Goal-based Upsell"
+    }
+  },
+  {
+    "id": "W009",
+    "name": "Vikram Joshi",
+    "profile": {
+      "age": 55,
+      "occupation": "Senior Executive",
+      "risk_profile": "Moderate",
+      "aum_inr_cr": 15.0,
+      "allocation": { "equity": 0.52, "debt": 0.32, "alternatives": 0.10, "cash": 0.06 },
+      "top_holdings": [
+        { "name": "Blue Chip Fund", "type": "equity_mf", "weight": 0.18 },
+        { "name": "Multi-cap Fund", "type": "equity_mf", "weight": 0.15 },
+        { "name": "Corporate Bond Fund", "type": "debt_mf", "weight": 0.14 },
+        { "name": "International Fund", "type": "intl_mf", "weight": 0.10 }
+      ],
+      "ytd_return_pct": 12.1,
+      "benchmark_ytd_pct": 10.0,
+      "kyc_status": "Completed",
+      "flags": ["Portfolio on track", "12% CAGR vs 10% goal", "Maintain current allocation"],
+      "segment": "Stable",
+      "sip_active": true,
+      "last_activity": "2026-04-10",
+      "urgency_score": 15,
+      "action": "Anniversary Review"
+    }
+  },
+  {
+    "id": "W010",
+    "name": "Meera Deshmukh",
+    "profile": {
+      "age": 48,
+      "occupation": "School Principal",
+      "risk_profile": "Conservative",
+      "aum_inr_cr": 9.5,
+      "allocation": { "equity": 0.42, "debt": 0.42, "alternatives": 0.08, "cash": 0.08 },
+      "top_holdings": [
+        { "name": "Balanced Fund", "type": "hybrid_mf", "weight": 0.22 },
+        { "name": "Debt Fund", "type": "debt_mf", "weight": 0.20 },
+        { "name": "Multi-cap Fund", "type": "equity_mf", "weight": 0.14 },
+        { "name": "Liquid Fund", "type": "liquid_mf", "weight": 0.12 }
+      ],
+      "ytd_return_pct": 8.5,
+      "benchmark_ytd_pct": 7.2,
+      "kyc_status": "Completed",
+      "flags": ["Consistent investor", "Portfolio resilience check", "High satisfaction levels"],
+      "segment": "Stable",
+      "sip_active": true,
+      "last_activity": "2026-04-12",
+      "urgency_score": 12,
+      "action": "Client Satisfaction Call"
+    }
+  },
+  {
+    "id": "W011",
+    "name": "Zoya Khan",
+    "profile": {
+      "age": 36,
+      "occupation": "Startup Founder",
+      "risk_profile": "Aggressive",
+      "aum_inr_cr": 22.0,
+      "allocation": { "equity": 0.75, "debt": 0.10, "alternatives": 0.10, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Growth Fund", "type": "equity_mf", "weight": 0.28 },
+        { "name": "Small Cap Fund", "type": "equity_mf", "weight": 0.22 },
+        { "name": "International Fund", "type": "intl_mf", "weight": 0.15 },
+        { "name": "Alternative Investment Fund", "type": "aif", "weight": 0.10 }
+      ],
+      "ytd_return_pct": 18.2,
+      "benchmark_ytd_pct": 12.1,
+      "kyc_status": "Completed",
+      "flags": ["18% CAGR over 3 years", "High engagement", "No action required"],
+      "segment": "Stable",
+      "sip_active": true,
+      "last_activity": "2026-04-20",
+      "urgency_score": 5,
+      "action": "Portfolio Maintenance"
+    }
+  },
+  {
+    "id": "W012",
+    "name": "Rahul Desai",
+    "profile": {
+      "age": 42,
+      "occupation": "Chartered Accountant",
+      "risk_profile": "Moderate",
+      "aum_inr_cr": 6.5,
+      "allocation": { "equity": 0.50, "debt": 0.35, "alternatives": 0.10, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Tax Saving Fund", "type": "equity_mf", "weight": 0.20 },
+        { "name": "Balanced Fund", "type": "hybrid_mf", "weight": 0.18 },
+        { "name": "Debt Fund", "type": "debt_mf", "weight": 0.15 },
+        { "name": "Multi-cap Fund", "type": "equity_mf", "weight": 0.12 }
+      ],
+      "ytd_return_pct": 7.8,
+      "benchmark_ytd_pct": 6.5,
+      "kyc_status": "Completed",
+      "flags": ["Regular tax planning discussion", "ELss allocation optimization", "Q4 planning pending"],
+      "segment": "Opportunity",
+      "sip_active": true,
+      "last_activity": "2026-04-14",
+      "urgency_score": 65,
+      "action": "Tax Planning Opportunity"
+    }
+  },
+  {
+    "id": "W013",
+    "name": "Nisha Gupta",
+    "profile": {
+      "age": 38,
+      "occupation": "Software Engineer",
+      "risk_profile": "Aggressive",
+      "aum_inr_cr": 3.8,
+      "allocation": { "equity": 0.70, "debt": 0.12, "alternatives": 0.13, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Tech Fund", "type": "equity_mf", "weight": 0.25 },
+        { "name": "Growth Fund", "type": "equity_mf", "weight": 0.20 },
+        { "name": "International Fund", "type": "intl_mf", "weight": 0.14 },
+        { "name": "Crypto Fund", "type": "alternative", "weight": 0.08 }
+      ],
+      "ytd_return_pct": 10.5,
+      "benchmark_ytd_pct": 8.2,
+      "kyc_status": "Completed",
+      "flags": ["High income growth potential", "Aggressive risk appetite", "RSU diversification pending"],
+      "segment": "Opportunity",
+      "sip_active": true,
+      "last_activity": "2026-04-16",
+      "urgency_score": 70,
+      "action": "Wealth Acceleration"
+    }
+  },
+  {
+    "id": "W014",
+    "name": "Amit Verma",
+    "profile": {
+      "age": 58,
+      "occupation": "Retired Engineer",
+      "risk_profile": "Conservative",
+      "aum_inr_cr": 11.2,
+      "allocation": { "equity": 0.35, "debt": 0.50, "alternatives": 0.05, "cash": 0.10 },
+      "top_holdings": [
+        { "name": "Dividend Fund", "type": "equity_mf", "weight": 0.16 },
+        { "name": "Fixed Income Fund", "type": "debt_mf", "weight": 0.24 },
+        { "name": "Gilt Fund", "type": "debt_mf", "weight": 0.14 },
+        { "name": "Balanced Fund", "type": "hybrid_mf", "weight": 0.12 }
+      ],
+      "ytd_return_pct": 5.9,
+      "benchmark_ytd_pct": 5.2,
+      "kyc_status": "Completed",
+      "flags": ["Monthly income requirement ₹45k", "Withdrawal SWP active", "Pension adequacy review"],
+      "segment": "Stable",
+      "sip_active": false,
+      "last_activity": "2026-04-11",
+      "urgency_score": 25,
+      "action": "Withdrawal Monitoring"
+    }
+  },
+  {
+    "id": "W015",
+    "name": "Sneha Patel",
+    "profile": {
+      "age": 34,
+      "occupation": "Medical Professional",
+      "risk_profile": "Moderate",
+      "aum_inr_cr": 2.9,
+      "allocation": { "equity": 0.55, "debt": 0.28, "alternatives": 0.10, "cash": 0.07 },
+      "top_holdings": [
+        { "name": "Growth Fund", "type": "equity_mf", "weight": 0.22 },
+        { "name": "Midcap Fund", "type": "equity_mf", "weight": 0.16 },
+        { "name": "Corporate Bond Fund", "type": "debt_mf", "weight": 0.14 },
+        { "name": "Real Estate Fund", "type": "reit", "weight": 0.09 }
+      ],
+      "ytd_return_pct": 9.2,
+      "benchmark_ytd_pct": 7.5,
+      "kyc_status": "Completed",
+      "flags": ["Marriage planning in 18 months", "Home purchase goal", "Goal-based SIP structure"],
+      "segment": "Opportunity",
+      "sip_active": true,
+      "last_activity": "2026-04-19",
+      "urgency_score": 78,
+      "action": "Life Event Planning"
+    }
+  }
+]

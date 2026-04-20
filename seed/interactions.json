@@ -1,0 +1,61 @@
+[
+  { "client_id": "W001", "ts": "2026-04-18T10:30:00Z", "kind": "call", "summary": "Discussed market volatility. SIP paused 52 days due to market concerns. Advised to restart for long-term wealth accumulation." },
+  { "client_id": "W001", "ts": "2026-04-01T14:00:00Z", "kind": "email", "summary": "Sent SIP reactivation reminder and market overview. Highlighted compound growth benefits of consistent investing." },
+  { "client_id": "W001", "ts": "2026-03-15T09:00:00Z", "kind": "note", "summary": "Client expressing anxiety about portfolio drawdown. Recommended reviewing goal timeline and risk profile alignment." },
+
+  { "client_id": "W002", "ts": "2026-04-20T11:30:00Z", "kind": "call", "summary": "Discussed idle cash of ₹2L. Strong portfolio performance. Client interested in increasing SIP amount by ₹5,000/month." },
+  { "client_id": "W002", "ts": "2026-04-15T15:00:00Z", "kind": "email", "summary": "Sent performance update showing 14.5% returns vs benchmark 9.2%. Proposed SIP top-up opportunity." },
+  { "client_id": "W002", "ts": "2026-03-20T16:00:00Z", "kind": "note", "summary": "Identified ₹2L idle savings in savings account. Opportunity for SIP or lump sum deployment." },
+
+  { "client_id": "W003", "ts": "2026-04-18T13:00:00Z", "kind": "call", "summary": "Reviewed portfolio performance - 5.1% vs benchmark 11%. Discussed rebalancing strategy and sector over-concentration." },
+  { "client_id": "W003", "ts": "2026-04-05T10:30:00Z", "kind": "email", "summary": "Sent performance analysis highlighting underperformance. Recommended switching from underperforming fund to hybrid fund." },
+  { "client_id": "W003", "ts": "2026-03-10T14:30:00Z", "kind": "note", "summary": "High AUM of ₹12L showing 600 bps underperformance. Urgent rebalancing needed." },
+
+  { "client_id": "W004", "ts": "2026-04-15T09:00:00Z", "kind": "call", "summary": "No transactions for 46 days. AUM declining. Discussed pause option vs stopping SIP. Offered to reduce SIP amount." },
+  { "client_id": "W004", "ts": "2026-04-05T10:00:00Z", "kind": "email", "summary": "Sent check-in message regarding paused investments. Offered flexible options to maintain portfolio." },
+  { "client_id": "W004", "ts": "2026-03-20T15:00:00Z", "kind": "note", "summary": "Client engagement declining. Last transaction 46 days ago. Monitor for redemption risk." },
+
+  { "client_id": "W005", "ts": "2026-04-20T12:30:00Z", "kind": "call", "summary": "Bonus received - ₹1.5L idle in savings. Discussed lump sum deployment options. Client open to investment." },
+  { "client_id": "W005", "ts": "2026-04-10T11:00:00Z", "kind": "email", "summary": "Sent lump sum deployment opportunity analysis. Recommended staggered entry for market timing." },
+  { "client_id": "W005", "ts": "2026-03-15T16:00:00Z", "kind": "note", "summary": "Consistent SIP investor with strong fundamentals. Identified ₹1.5L liquid surplus." },
+
+  { "client_id": "W006", "ts": "2026-04-16T14:00:00Z", "kind": "call", "summary": "Portfolio review - 70% in debt despite aggressive risk profile in bull market. Discussed equity rebalancing." },
+  { "client_id": "W006", "ts": "2026-04-01T10:30:00Z", "kind": "email", "summary": "Sent rebalancing proposal - shift debt to equity in current market scenario." },
+  { "client_id": "W006", "ts": "2026-03-25T15:30:00Z", "kind": "note", "summary": "Risk appetite mismatch. Portfolio allocation not aligned with risk profile." },
+
+  { "client_id": "W007", "ts": "2026-03-30T11:00:00Z", "kind": "call", "summary": "Full redemption for house purchase. Discussed tax implications and post-purchase reinvestment plan." },
+  { "client_id": "W007", "ts": "2026-02-20T09:30:00Z", "kind": "email", "summary": "Sent tax planning note for redemption. Discussed SIP resumption post house purchase." },
+  { "client_id": "W007", "ts": "2026-01-30T14:00:00Z", "kind": "note", "summary": "Financial need for house purchase. Portfolio liquidation planned." },
+
+  { "client_id": "W008", "ts": "2026-04-19T10:00:00Z", "kind": "call", "summary": "Child education goal in 8 years - ₹1.2Cr target. Current SIP of ₹8,000/month may be insufficient. Proposed increase to ₹11,000." },
+  { "client_id": "W008", "ts": "2026-04-12T15:30:00Z", "kind": "email", "summary": "Sent education goal projection. Recommended SIP top-up of ₹3,000/month for goal achievement." },
+  { "client_id": "W008", "ts": "2026-03-20T11:00:00Z", "kind": "note", "summary": "Goal-based SIP tracking. Education target needs 11% CAGR - well on track with current allocation." },
+
+  { "client_id": "W009", "ts": "2026-04-15T13:00:00Z", "kind": "call", "summary": "Annual anniversary review. Portfolio performing at 12% CAGR vs 10% goal. Very satisfied with progress." },
+  { "client_id": "W009", "ts": "2026-04-05T10:30:00Z", "kind": "email", "summary": "Sent annual performance report. Portfolio on track with excellent returns and consistent SIP activity." },
+  { "client_id": "W009", "ts": "2026-03-20T14:00:00Z", "kind": "note", "summary": "High-net-worth client with stable portfolio. Annual review scheduled. No changes recommended." },
+
+  { "client_id": "W010", "ts": "2026-04-18T09:30:00Z", "kind": "call", "summary": "Client satisfaction check. Consistent SIP performance. Discussed portfolio resilience in market downturn." },
+  { "client_id": "W010", "ts": "2026-04-10T11:00:00Z", "kind": "email", "summary": "Sent quarterly performance update. Portfolio maintaining target allocation with stable returns." },
+  { "client_id": "W010", "ts": "2026-03-15T15:00:00Z", "kind": "note", "summary": "Highly satisfied client with consistent engagement. Strong SIP discipline and engagement." },
+
+  { "client_id": "W011", "ts": "2026-04-22T16:00:00Z", "kind": "call", "summary": "High-value client check-in. 18% CAGR over 3 years. No action needed. Portfolio perfectly aligned with goals." },
+  { "client_id": "W011", "ts": "2026-04-15T11:30:00Z", "kind": "email", "summary": "Sent performance recognition. Highlighted strong returns and excellent alignment with aggressive profile." },
+  { "client_id": "W011", "ts": "2026-04-01T10:00:00Z", "kind": "note", "summary": "Star performer. Consistent high returns. Maintain current strategy. Consider as testimonial/referral source." },
+
+  { "client_id": "W012", "ts": "2026-04-16T10:00:00Z", "kind": "call", "summary": "Tax planning discussion for FY2026-27. Reviewed ELSS allocation and optimization opportunities." },
+  { "client_id": "W012", "ts": "2026-04-10T14:30:00Z", "kind": "email", "summary": "Sent Q4 tax planning strategy. Recommended ELSS top-up before FY end for maximum tax benefit." },
+  { "client_id": "W012", "ts": "2026-03-25T11:00:00Z", "kind": "note", "summary": "Regular tax planning client. ELSS allocation below optimal. Good cross-selling opportunity." },
+
+  { "client_id": "W013", "ts": "2026-04-20T18:00:00Z", "kind": "call", "summary": "High income professional. Discussed wealth acceleration through increased SIP and international diversification." },
+  { "client_id": "W013", "ts": "2026-04-15T15:00:00Z", "kind": "email", "summary": "Sent wealth acceleration proposal. Recommended increasing SIP by 50% and exploring international equity exposure." },
+  { "client_id": "W013", "ts": "2026-04-01T12:00:00Z", "kind": "note", "summary": "Young high-income client with aggressive profile. Strong growth potential. RSU diversification pending." },
+
+  { "client_id": "W014", "ts": "2026-04-18T10:00:00Z", "kind": "call", "summary": "Reviewed SWP adequacy for monthly income needs of ₹45k. Current portfolio generating sufficient withdrawals." },
+  { "client_id": "W014", "ts": "2026-04-08T14:00:00Z", "kind": "email", "summary": "Sent income adequacy analysis. Monthly withdrawals sustainable for retirement horizon." },
+  { "client_id": "W014", "ts": "2026-03-20T11:30:00Z", "kind": "note", "summary": "Recently retired. SWP strategy working well. Pension plus portfolio meeting income requirements." },
+
+  { "client_id": "W015", "ts": "2026-04-21T10:30:00Z", "kind": "call", "summary": "Life event planning - marriage in 18 months and home purchase goal. Discussed goal-based portfolio structuring." },
+  { "client_id": "W015", "ts": "2026-04-15T15:00:00Z", "kind": "email", "summary": "Sent life event planning proposal. Recommended segregating goals with appropriate asset allocation for each timeline." },
+  { "client_id": "W015", "ts": "2026-04-05T12:00:00Z", "kind": "note", "summary": "Upcoming life events - marriage and home purchase. Opportunity to increase SIP and diversify portfolio." }
+]

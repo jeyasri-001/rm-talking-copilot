@@ -1,0 +1,26 @@
+[
+  { "client_id": "C001", "ts": "2026-04-08T10:30:00Z", "kind": "call", "summary": "Discussed tech-sector correction. Client anxious about YTD drawdown. Asked about rebalancing into debt." },
+  { "client_id": "C001", "ts": "2026-03-22T14:00:00Z", "kind": "email", "summary": "Sent CIO Q2 outlook. Flagged upcoming FD maturity of ₹40L — needs reinvestment plan." },
+  { "client_id": "C001", "ts": "2026-02-14T09:00:00Z", "kind": "note", "summary": "Client hinted interest in US equity exposure via feeder fund. No action taken yet." },
+
+  { "client_id": "C002", "ts": "2026-04-15T11:00:00Z", "kind": "call", "summary": "Life insurance policy expiring next month — discussed renewal vs switching to term plan. Client prefers staying invested in gilt funds given rate environment." },
+  { "client_id": "C002", "ts": "2026-03-30T15:30:00Z", "kind": "note", "summary": "Reviewed monthly income needs (₹80k). Current SWP from balanced fund sufficient." },
+
+  { "client_id": "C003", "ts": "2026-04-18T16:00:00Z", "kind": "call", "summary": "Client called — very concerned about small-cap drawdown of -12% in last 45 days. Asked why his portfolio is down more than index." },
+  { "client_id": "C003", "ts": "2026-03-05T10:00:00Z", "kind": "email", "summary": "Client asked about crypto allocation. RM responded with firm stance — not on approved list." },
+
+  { "client_id": "C004", "ts": "2026-04-10T12:00:00Z", "kind": "call", "summary": "Annual review. Portfolio on track. Client happy with REIT income — asked if allocation can increase." },
+  { "client_id": "C004", "ts": "2026-02-20T09:30:00Z", "kind": "note", "summary": "Business expansion discussion — may need liquidity of ~₹2cr in Q3." },
+
+  { "client_id": "C005", "ts": "2026-04-12T15:00:00Z", "kind": "call", "summary": "Quarterly review. Private credit AIF performing at 11.2% net. Raised estate-planning — will connect with in-house trust advisor." },
+  { "client_id": "C005", "ts": "2026-01-18T11:00:00Z", "kind": "note", "summary": "HNI — 30% tactical allocation moved into tax-free bonds ahead of expected rate cut." },
+
+  { "client_id": "C006", "ts": "2026-04-05T18:00:00Z", "kind": "email", "summary": "Sent ESOP diversification note. Client reluctant to sell given vesting schedule." },
+  { "client_id": "C006", "ts": "2026-03-14T19:00:00Z", "kind": "call", "summary": "Home-purchase horizon 2 years — reviewed cash ladder for down payment." },
+
+  { "client_id": "C007", "ts": "2026-04-14T13:00:00Z", "kind": "note", "summary": "KYC refresh due May 10. Sent reminder + document checklist." },
+  { "client_id": "C007", "ts": "2026-03-02T10:30:00Z", "kind": "call", "summary": "Client asked about international diversification beyond feeder fund — explored GIFT City route." },
+
+  { "client_id": "C008", "ts": "2026-04-16T09:00:00Z", "kind": "call", "summary": "Reviewed child-education SIP trajectory — on track for ₹1.2cr at 10yr horizon assuming 11% CAGR." },
+  { "client_id": "C008", "ts": "2026-02-28T17:00:00Z", "kind": "note", "summary": "Client asked whether to increase gold allocation given geopolitical risks." }
+]

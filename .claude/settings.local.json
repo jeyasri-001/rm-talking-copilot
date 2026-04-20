@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/fi-user/Documents/core-red-hackathon/RM Talking Copilot /components/**)",
+      "Read(//Users/fi-user/Documents/core-red-hackathon/RM Talking Copilot /app/**)",
+      "Read(//Users/fi-user/Documents/core-red-hackathon/RM Talking Copilot /**)",
+      "Read(//Users/fi-user/Documents/core-red-hackathon/**)",
+      "Bash(npm run *)",
+      "Bash(curl -s \"http://localhost:3000/api/clients\")"
+    ]
+  }
+}

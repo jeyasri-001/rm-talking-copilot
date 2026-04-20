@@ -1,0 +1,163 @@
+[
+  {
+    "id": "C001",
+    "name": "Arjun Mehta",
+    "profile": {
+      "age": 42,
+      "occupation": "Tech founder",
+      "risk_profile": "Aggressive",
+      "aum_inr_cr": 4.2,
+      "allocation": { "equity": 0.72, "debt": 0.15, "alternatives": 0.08, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Parag Parikh Flexi Cap", "type": "equity_mf", "weight": 0.18 },
+        { "name": "Mirae Asset Large Cap", "type": "equity_mf", "weight": 0.12 },
+        { "name": "HDFC Corporate Bond Fund", "type": "debt_mf", "weight": 0.10 },
+        { "name": "Gold ETF", "type": "commodity_etf", "weight": 0.05 }
+      ],
+      "ytd_return_pct": -3.8,
+      "benchmark_ytd_pct": -1.2,
+      "kyc_status": "Completed",
+      "flags": ["FD of ₹40L matures in 18 days"]
+    }
+  },
+  {
+    "id": "C002",
+    "name": "Priya Natarajan",
+    "profile": {
+      "age": 58,
+      "occupation": "Retired surgeon",
+      "risk_profile": "Conservative",
+      "aum_inr_cr": 12.5,
+      "allocation": { "equity": 0.25, "debt": 0.55, "alternatives": 0.05, "cash": 0.15 },
+      "top_holdings": [
+        { "name": "SBI Magnum Gilt Fund", "type": "debt_mf", "weight": 0.22 },
+        { "name": "ICICI Pru Balanced Advantage", "type": "hybrid_mf", "weight": 0.15 },
+        { "name": "Sovereign Gold Bond 2031", "type": "sgb", "weight": 0.08 }
+      ],
+      "ytd_return_pct": 6.4,
+      "benchmark_ytd_pct": 5.1,
+      "kyc_status": "Completed",
+      "flags": ["Life insurance policy expiring in 35 days", "Income requirement: ₹80k/month"]
+    }
+  },
+  {
+    "id": "C003",
+    "name": "Rohan Kapoor",
+    "profile": {
+      "age": 34,
+      "occupation": "Investment banker",
+      "risk_profile": "Moderately aggressive",
+      "aum_inr_cr": 2.8,
+      "allocation": { "equity": 0.60, "debt": 0.20, "alternatives": 0.15, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Nippon India Small Cap", "type": "equity_mf", "weight": 0.14 },
+        { "name": "Axis Midcap Fund", "type": "equity_mf", "weight": 0.11 },
+        { "name": "US Nasdaq 100 ETF (feeder)", "type": "intl_etf", "weight": 0.12 }
+      ],
+      "ytd_return_pct": -8.1,
+      "benchmark_ytd_pct": -1.2,
+      "kyc_status": "Completed",
+      "flags": ["Concentrated small-cap exposure", "Asked about crypto last call"]
+    }
+  },
+  {
+    "id": "C004",
+    "name": "Sunita Rao",
+    "profile": {
+      "age": 47,
+      "occupation": "COO, mid-cap manufacturing",
+      "risk_profile": "Balanced",
+      "aum_inr_cr": 8.1,
+      "allocation": { "equity": 0.45, "debt": 0.35, "alternatives": 0.10, "cash": 0.10 },
+      "top_holdings": [
+        { "name": "Kotak Emerging Equity", "type": "equity_mf", "weight": 0.13 },
+        { "name": "HDFC Short Term Debt", "type": "debt_mf", "weight": 0.18 },
+        { "name": "REIT: Embassy Office Parks", "type": "reit", "weight": 0.06 }
+      ],
+      "ytd_return_pct": 2.9,
+      "benchmark_ytd_pct": 2.1,
+      "kyc_status": "Completed",
+      "flags": []
+    }
+  },
+  {
+    "id": "C005",
+    "name": "Vikram Shah",
+    "profile": {
+      "age": 61,
+      "occupation": "Family office principal",
+      "risk_profile": "Moderate",
+      "aum_inr_cr": 45.0,
+      "allocation": { "equity": 0.35, "debt": 0.40, "alternatives": 0.20, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "ICICI Pru Bluechip", "type": "equity_mf", "weight": 0.10 },
+        { "name": "AIF Cat-II Private Credit", "type": "aif", "weight": 0.15 },
+        { "name": "Tax-free PSU bonds", "type": "bond", "weight": 0.12 }
+      ],
+      "ytd_return_pct": 4.2,
+      "benchmark_ytd_pct": 3.5,
+      "kyc_status": "Completed",
+      "flags": ["HNI — quarterly review cadence", "Estate-planning conversation pending"]
+    }
+  },
+  {
+    "id": "C006",
+    "name": "Kavya Iyer",
+    "profile": {
+      "age": 29,
+      "occupation": "Software engineer (FAANG)",
+      "risk_profile": "Aggressive",
+      "aum_inr_cr": 1.1,
+      "allocation": { "equity": 0.80, "debt": 0.05, "alternatives": 0.10, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "US S&P 500 ETF", "type": "intl_etf", "weight": 0.22 },
+        { "name": "Nippon Small Cap", "type": "equity_mf", "weight": 0.15 },
+        { "name": "ESOPs (unvested)", "type": "rsu", "weight": 0.18 }
+      ],
+      "ytd_return_pct": -5.6,
+      "benchmark_ytd_pct": -1.2,
+      "kyc_status": "Completed",
+      "flags": ["High RSU concentration risk", "Planning home purchase in 2 years"]
+    }
+  },
+  {
+    "id": "C007",
+    "name": "Aditya Verma",
+    "profile": {
+      "age": 52,
+      "occupation": "Law partner",
+      "risk_profile": "Balanced",
+      "aum_inr_cr": 15.7,
+      "allocation": { "equity": 0.50, "debt": 0.35, "alternatives": 0.10, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Parag Parikh Flexi Cap", "type": "equity_mf", "weight": 0.16 },
+        { "name": "Bharat Bond ETF 2031", "type": "debt_etf", "weight": 0.12 },
+        { "name": "International feeder fund", "type": "intl_mf", "weight": 0.08 }
+      ],
+      "ytd_return_pct": 1.8,
+      "benchmark_ytd_pct": 2.1,
+      "kyc_status": "Review due",
+      "flags": ["KYC refresh due in 20 days"]
+    }
+  },
+  {
+    "id": "C008",
+    "name": "Meera Joshi",
+    "profile": {
+      "age": 38,
+      "occupation": "Doctor (cardiologist)",
+      "risk_profile": "Moderate",
+      "aum_inr_cr": 3.6,
+      "allocation": { "equity": 0.55, "debt": 0.30, "alternatives": 0.10, "cash": 0.05 },
+      "top_holdings": [
+        { "name": "Mirae Large & Midcap", "type": "equity_mf", "weight": 0.17 },
+        { "name": "SBI Corporate Bond", "type": "debt_mf", "weight": 0.14 },
+        { "name": "Gold SGB 2030", "type": "sgb", "weight": 0.07 }
+      ],
+      "ytd_return_pct": 3.1,
+      "benchmark_ytd_pct": 2.1,
+      "kyc_status": "Completed",
+      "flags": ["Child education goal in 10 years (~₹1.2 Cr target)"]
+    }
+  }
+]
