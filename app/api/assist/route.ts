@@ -52,6 +52,9 @@ export async function POST(req: Request) {
     system: SYSTEM_RM_COPILOT,
     prompt,
     temperature: 0.2,
+    onError({ error }) {
+      console.error("[/api/assist] streamText error:", error);
+    },
   });
 
   return result.toTextStreamResponse({
